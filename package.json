@@ -1,0 +1,26 @@
+{
+  "name": "hello-koa",
+  "version": "1.0.0",
+  "description": "Hello Koa 2 example with async",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --use_strict app.js"
+  },
+  "keywords": [
+    "koa",
+    "async"
+  ],
+  "author": "Michael Liao",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelliao/learn-javascript.git"
+  },
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "excel-export": "^0.5.1",
+    "glob": "^7.1.2",
+    "mz": "^2.7.0",
+    "node-xlsx": "^0.11.2"
+  }
+}
